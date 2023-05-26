@@ -1,7 +1,6 @@
 # Bacoding's Github
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bacoding Github! &fontSize=90" />
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bacoding%20Github&fontSize=90" />
 <!-- ### Hi there 👋 -->
 
 <!--
