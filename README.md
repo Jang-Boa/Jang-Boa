@@ -1,6 +1,6 @@
 # Bacoding's Github
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Bacoding%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bacoding%20Github&fontSize=50" />
 <!-- ### Hi there 👋 -->
 
 <!--
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Boa&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Jang-Boa&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jang-Boa&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Jang-Boa&show_icons=true"> -->
